@@ -2,7 +2,7 @@
 
 #### Javascript warrior ⚔
 
-![Javascript enthusiast](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80)
+![Javascript enthusiast](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=80)
 
 I am currently pursuing Msc(ss) - 4th year at skasc. <br>
 I am interested in full stack web development ! <br>
