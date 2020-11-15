@@ -4,7 +4,6 @@
 
 ![Javascript enthusiast](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=80)
 
-I am currently pursuing Msc(ss) - 4th year at skasc. <br>
 I am interested in full stack web development ! <br>
 My hobbies include coding 👨‍💻, playing football ⚽, cooking 👩🏻‍🍳 and listening to music 🎵
 
@@ -12,8 +11,8 @@ Skills: HTML <img src='https://image.flaticon.com/icons/svg/226/226269.svg' alt=
 
 - 🌱 I’m currently learning Node js
 - 👯 I’m looking to collaborate on Javascript based projects
-- 📫 How to reach me: baladyahmed19@gmail.com / sarathkumaru17mss040@skasc.ac.in
-- ⚡ Fun fact: Almost any powered with electricity needs to be coded. Can you imagine?!
+- 📫 How to reach me: baladyahmed19@gmail.com
+- ⚡ Fun fact: Almost any powered with electricity can be coded. Can you imagine?!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedDev20&show_icons=true)
 
