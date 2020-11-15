@@ -2,7 +2,7 @@
 
 #### Javascript - ReactJS Warrior ⚔
 
-![Javascript enthusiast](https://images.pexels.com/photos/4164418/pexels-photo-4164418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=80&w=650)
+![Javascript enthusiast](https://images.pexels.com/photos/4164418/pexels-photo-4164418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=80&w=850)
 
 I am interested in full stack web development ! <br>
 My hobbies include coding 👨‍💻, playing football ⚽, cooking 👩🏻‍🍳 and listening to music 🎵
