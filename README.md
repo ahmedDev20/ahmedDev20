@@ -2,7 +2,7 @@
 I am interested in full stack web development ! <br>
 My hobbies include coding 👨‍💻, playing football ⚽, cooking 👩🏻‍🍳 and listening to music 🎵
 I'm currently in my journey to become a Javascript - ReactJS Warrior ⚔
-<p align="right">![Javascript warrior](https://sdk.bitmoji.com/render/panel/e0c8b93f-c246-46e8-9db2-ec0cb01ec9eb-c8523673-6f2d-474f-9396-bbf758c35647-v1.png?transparent=1&palette=1)</p>
+<p align="right"><img src="https://sdk.bitmoji.com/render/panel/e0c8b93f-c246-46e8-9db2-ec0cb01ec9eb-c8523673-6f2d-474f-9396-bbf758c35647-v1.png?transparent=1&palette=1" /></p>
 
 ## 📧 How to reach me
 <p align="left">
