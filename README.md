@@ -2,11 +2,11 @@
 I am interested in full stack web development ! <br>
 My hobbies include coding 👨‍💻, playing football ⚽, cooking 👩🏻‍🍳 and listening to music 🎵
 
-## In my journey to become a Javascript - ReactJS Warrior ⚔
+## ⚔ In my journey to become a Javascript - ReactJS Warrior
 
-![Javascript enthusiast](https://images.pexels.com/photos/4164418/pexels-photo-4164418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=200&w=850)
+![Javascript warrior](https://sdk.bitmoji.com/render/panel/e0c8b93f-c246-46e8-9db2-ec0cb01ec9eb-c8523673-6f2d-474f-9396-bbf758c35647-v1.png?transparent=1&palette=1)
 
-## How to reach me
+## 📧 How to reach me
 <p align="left">
   <a target="_blank"href="https://www.linkedin.com/in/ahmed-balady-940516193/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
   <a target="_blank"href="https://web.facebook.com/ahmed.balady"><img src="https://img.shields.io/badge/-FACEBOOK-0066ff?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -16,7 +16,7 @@ My hobbies include coding 👨‍💻, playing football ⚽, cooking 👩🏻‍
   <a href="mailto:baladyahmed19@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
 </p>
 
-## Currently learning
+## 📝 Currently learning
 - JavaScript <img width="16" height="16" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 - ReactJs <img width="16" height="16" src="https://img.icons8.com/color/48/000000/react-native.png"/> 
 - NodeJs <img width="16" height="16" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
