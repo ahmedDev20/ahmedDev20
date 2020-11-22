@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">, My name is Ahmed Balady
+## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">, I'm Ahmed
 I am interested in full stack web development ! <br>
 My hobbies include coding 👨‍💻, playing football ⚽, cooking 👩🏻‍🍳 and listening to music 🎵
 
@@ -42,9 +42,13 @@ My hobbies include coding 👨‍💻, playing football ⚽, cooking 👩🏻‍
 <img src="https://img.icons8.com/officel/40/000000/php-logo.png"/>
 </div>
 
-## <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>  GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedDev20&show_icons=true)
+## <img width="32" height="32" src="https://img.icons8.com/ios-filled/50/000000/github.png"/>  GitHub Stats
+<a href="https://github.com/SantanuxD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedDev20&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/SantanuxD">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedDev20&show_icons=true&theme=dark" alt="Santanu's github stats"/>
+</a>
 
 ## 😁 Fun fact
 More than 570 new websites are created every minute. Can you imagine?!
