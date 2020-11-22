@@ -17,9 +17,10 @@ My hobbies include coding 👨‍💻, playing football ⚽, cooking 👩🏻‍
 </p>
 
 ## Currently learning
-- <p>JavaScript <img src="https://img.icons8.com/color/48/000000/javascript.png"/></p>
-- NodeJs <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-- Redux <img src="https://img.icons8.com/color/48/000000/redux.png"/>
+- JavaScript <img width="16" height="16" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+- ReactJs <img width="16" height="16" src="https://img.icons8.com/color/48/000000/react-native.png"/> 
+- NodeJs <img width="16" height="16" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+- Redux <img width="16" height="16" src="https://img.icons8.com/color/48/000000/redux.png"/>
 
 
 ## 💻 Tools and languages I work with
@@ -40,6 +41,8 @@ My hobbies include coding 👨‍💻, playing football ⚽, cooking 👩🏻‍
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
 <img src="https://img.icons8.com/officel/40/000000/php-logo.png"/>
 </div>
+
+## <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>  GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedDev20&show_icons=true)
 
