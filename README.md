@@ -1,4 +1,4 @@
-## Hi there 👋, My name is Ahmed Balady <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">, My name is Ahmed Balady
 I am interested in full stack web development ! <br>
 My hobbies include coding 👨‍💻, playing football ⚽, cooking 👩🏻‍🍳 and listening to music 🎵
 
@@ -17,7 +17,7 @@ My hobbies include coding 👨‍💻, playing football ⚽, cooking 👩🏻‍
 </p>
 
 ## Currently learning
-- JavaScript <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+- <p>JavaScript <img src="https://img.icons8.com/color/48/000000/javascript.png"/></p>
 - NodeJs <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 - Redux <img src="https://img.icons8.com/color/48/000000/redux.png"/>
 
