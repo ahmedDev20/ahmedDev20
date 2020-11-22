@@ -1,11 +1,12 @@
 ## Hi there 👋, My name is Ahmed Balady <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+I am interested in full stack web development ! <br>
+My hobbies include coding 👨‍💻, playing football ⚽, cooking 👩🏻‍🍳 and listening to music 🎵
 
 ## In my journey to become a Javascript - ReactJS Warrior ⚔
 
 ![Javascript enthusiast](https://images.pexels.com/photos/4164418/pexels-photo-4164418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=200&w=850)
 
-I am interested in full stack web development ! <br>
-My hobbies include coding 👨‍💻, playing football ⚽, cooking 👩🏻‍🍳 and listening to music 🎵
+
 
 ## 💻 Tools and languages I work with
 <div align items="left">
