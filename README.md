@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">, I'm Ahmed
+## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> I'm Ahmed
 I am interested in full stack web development ! <br>
 My hobbies include coding 👨‍💻, playing football ⚽, cooking 👩🏻‍🍳 and listening to music 🎵
 
@@ -54,3 +54,9 @@ My hobbies include coding 👨‍💻, playing football ⚽, cooking 👩🏻‍
 More than 570 new websites are created every minute. Can you imagine?!
 
 ![Profile views](https://gpvc.arturio.dev/ahmedDev20)
+
+<p align="center">
+  <a target="_blank"href="https://www.instagram.com/ahmedbalady/"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+  <a href="https://twitter.com/ahmed_balady"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+  <a target="_blank"href="https://www.linkedin.com/in/ahmed-balady-940516193"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+</p>
