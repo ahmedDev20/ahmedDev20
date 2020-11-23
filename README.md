@@ -43,10 +43,10 @@ I'm currently in my journey to become a Javascript - ReactJS Warrior ⚔
 
 ## <img width="32" height="32" src="https://img.icons8.com/ios-filled/50/000000/github.png"/>  GitHub Stats
 <a href="https://github.com/SantanuxD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedDev20&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedDev20&hide_langs_below=1" />
 </a>
 <a href="https://github.com/SantanuxD">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedDev20&show_icons=true&theme=dark" alt="Santanu's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedDev20&show_icons=true" alt="Santanu's github stats"/>
 </a>
 
 ## 😁 Fun fact
