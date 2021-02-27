@@ -16,7 +16,7 @@ I'm currently in my journey to become a Javascript - ReactJS Warrior ⚔
 </p>
 
 ## 📝 Currently learning
-- NextJS <img width="16" height="16" src="https://img.icons8.com/color/48/000000/nextjs.png"/> 
+- NextJS <img width="16" height="16" src="https://img.icons8.com/color/48/000000/next.png"/>
 - NodeJs <img width="16" height="16" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 - Redux <img width="16" height="16" src="https://img.icons8.com/color/48/000000/redux.png"/>
 
