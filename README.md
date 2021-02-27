@@ -36,8 +36,6 @@ I'm currently in my journey to become a Javascript - ReactJS Warrior ⚔
 <img src="https://img.icons8.com/ios/50/000000/heroku.png"/>
 <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
 <img src="https://img.icons8.com/ios-filled/50/000000/console.png"/>
-<img src="https://img.icons8.com/color/48/000000/python.png"/>
-<img src="https://img.icons8.com/officel/40/000000/php-logo.png"/>
 </div>
 
 ## <img width="32" height="32" src="https://img.icons8.com/ios-filled/50/000000/github.png"/>  GitHub Stats
