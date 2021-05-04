@@ -1,5 +1,5 @@
 ## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> I'm Ahmed
-I am interested in full stack web development ! <br>
+I am interested in full-stack web development! <br>
 My hobbies include coding 👨‍💻, playing football ⚽, cooking 👩🏻‍🍳 and listening to music 🎵 <br>
 I'm currently in my journey to become a Javascript - ReactJS Warrior ⚔
 
@@ -16,9 +16,7 @@ I'm currently in my journey to become a Javascript - ReactJS Warrior ⚔
 </p>
 
 ## 📝 Currently learning
-- NextJS <img width="16" height="16" src="https://img.icons8.com/color/48/000000/next.png"/>
-- NodeJs <img width="16" height="16" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-- Redux <img width="16" height="16" src="https://img.icons8.com/color/48/000000/redux.png"/>
+- React Native <img width="18" src="https://img.icons8.com/color/48/000000/react-native.png"/> 
 
 
 ## 💻 Tools and languages I work with
