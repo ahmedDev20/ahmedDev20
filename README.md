@@ -1,7 +1,7 @@
-## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> I'm Ahmed
+## Hi there! I am Ahmed <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height="25px">
 I am interested in full-stack web development! <br>
-My hobbies include coding 👨‍💻, playing football ⚽, cooking 👨🏻‍🍳 and listening to music 🎵 <br>
-I'm currently in my journey to become a Javascript - ReactJS Warrior ⚔
+My hobbies include coding 👨‍💻,playing football ⚽,cooking 👨🏻‍🍳 and listening to music 🎵 <br>
+I'm currently in my journey to become a Javascript Warrior ⚔
 
 <img align="right" src="https://sdk.bitmoji.com/render/panel/e0c8b93f-c246-46e8-9db2-ec0cb01ec9eb-c8523673-6f2d-474f-9396-bbf758c35647-v1.png?transparent=1&palette=1" />
 
@@ -15,10 +15,6 @@ I'm currently in my journey to become a Javascript - ReactJS Warrior ⚔
   <a href="mailto:baladyahmed19@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
 </p>
 
-## 📝 Currently learning
-- React Native <img width="18" src="https://img.icons8.com/color/48/000000/react-native.png"/> 
-
-
 ## 💻 Tools and languages I work with
 <div align items="left">
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
@@ -27,30 +23,20 @@ I'm currently in my journey to become a Javascript - ReactJS Warrior ⚔
 <img src="https://img.icons8.com/color/48/000000/react-native.png"/> 
 <img src="https://img.icons8.com/color/48/000000/redux.png"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img src="https://img.icons8.com/color/48/000000/json--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
-<img src="https://img.icons8.com/ios/50/000000/heroku.png"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/console.png"/>
+<img src="https://img.icons8.com/color/48/000000/docker.png"/>
 </div>
 
 ## <img width="32" height="32" src="https://img.icons8.com/ios-filled/50/000000/github.png"/>  GitHub Stats
 <a href="https://github.com/SantanuxD">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedDev20&hide_langs_below=1" />
 </a>
-<a href="https://github.com/SantanuxD">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedDev20&show_icons=true" alt="Santanu's github stats"/>
+<a href="https://github.com/SantanuxD" align="right">
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=ahmedDev20&show_icons=true" alt="Santanu's github stats"/>
 </a>
 
-## 😁 Fun fact
-More than 570 new websites are created every minute. Can you imagine?!
-
-
-<p align="center">
+<div align="center">
   <img align="center"  src="https://gpvc.arturio.dev/ahmedDev20" />
-  <a target="_blank"href="https://www.instagram.com/ahmedbalady/"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-  <a href="https://twitter.com/ahmed_balady"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-  <a target="_blank"href="https://www.linkedin.com/in/ahmed-balady-940516193"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-</p>
+</div>
