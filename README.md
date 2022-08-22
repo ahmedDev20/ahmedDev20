@@ -3,7 +3,9 @@ I am interested in full-stack web development! <br>
 My hobbies include coding 👨‍💻,playing football ⚽,cooking 👨🏻‍🍳 and listening to music 🎵 <br>
 I'm currently in my journey to become a Javascript Warrior ⚔
 
-<img align="right" src="https://sdk.bitmoji.com/render/panel/e0c8b93f-c246-46e8-9db2-ec0cb01ec9eb-c8523673-6f2d-474f-9396-bbf758c35647-v1.png?transparent=1&palette=1" />
+
+<a href="https://app.daily.dev/ahmedDev20"><img src="https://api.daily.dev/devcards/b77498d699e1475a8dd51cca82412a72.png?r=zv9" width="300" alt="Ahmed Balady's Dev Card"/></a>
+
 
 ## 📧 How to reach me
 <p align="left">
@@ -21,6 +23,7 @@ I'm currently in my journey to become a Javascript Warrior ⚔
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/react-native.png"/> 
+<img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
 <img src="https://img.icons8.com/color/48/000000/redux.png"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
