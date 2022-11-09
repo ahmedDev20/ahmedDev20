@@ -9,8 +9,6 @@ I'm currently in my journey to become a Javascript Warrior ⚔
 
 ## 📧 How to reach me
 <p align="left">
-  <a target="_blank"href="https://www.instagram.com/ahmedbalady/"><img src="https://img.shields.io/badge/-INSTAGRAM-cc0099?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-  <a target="_blank"href="https://web.facebook.com/ahmed.balady"><img src="https://img.shields.io/badge/-FACEBOOK-0066ff?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
   <a target="_blank"href="https://www.linkedin.com/in/ahmed-balady-940516193/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
   <a href="https://twitter.com/ahmed_balady"><img src="https://img.shields.io/badge/-TWITTER-1ca0f1?&style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
   <a target="_blank"href="https://github.com/ahmedDev20/ahmedDev20"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
