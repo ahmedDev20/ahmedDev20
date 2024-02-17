@@ -1,18 +1,13 @@
-## Hi there! I am Ahmed <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height="25px">
-I am interested in full-stack web development! <br>
-My hobbies include coding 👨‍💻,playing football ⚽,cooking 👨🏻‍🍳 and listening to music 🎵 <br>
-I'm currently in my journey to become a Javascript Warrior ⚔
-
+## Hi there! This is Ahmed <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height="25px">
+Full-stack Engineer. <br>
 
 <a href="https://app.daily.dev/ahmedDev20"><img src="https://api.daily.dev/devcards/b77498d699e1475a8dd51cca82412a72.png?r=zv9" width="300" alt="Ahmed Balady's Dev Card"/></a>
 
 
-## 📧 How to reach me
+## 📧 Social links
 <p align="left">
   <a target="_blank"href="https://www.linkedin.com/in/ahmed-balady-940516193/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
   <a href="https://twitter.com/ahmed_balady"><img src="https://img.shields.io/badge/-TWITTER-1ca0f1?&style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-  <a target="_blank"href="https://github.com/ahmedDev20/ahmedDev20"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-  <a href="mailto:baladyahmed19@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
 </p>
 
 ## 💻 Tools and languages I work with
@@ -20,7 +15,8 @@ I'm currently in my journey to become a Javascript Warrior ⚔
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/color/48/000000/react-native.png"/> 
+<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
 <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
 <img src="https://img.icons8.com/color/48/000000/redux.png"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
